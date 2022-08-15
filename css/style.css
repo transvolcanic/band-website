@@ -8,14 +8,15 @@ body {
 }
 
 
-
-
-
-
 h1 {
   color:red;
   font-weight: 900;
   font-size: 200px;
   text-align:center;
   font-family: 'Nanum Brush Script', cursive;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
