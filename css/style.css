@@ -7,6 +7,10 @@ body {
   font-size: 30px;
 }
 
+img {
+  float:right;
+}
+
 
 h1 {
   color:red;
@@ -16,12 +20,15 @@ h1 {
   font-family: 'Nanum Brush Script', cursive;
 }
 
-img {
-  float:inline-end;
-}
 
 .column {
-  width: 100px;
+  width: 20%;
   float: left;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: darkgoldenrod;
 }
 
