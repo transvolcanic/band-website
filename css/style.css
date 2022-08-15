@@ -3,9 +3,12 @@ body {
 }
 
 
+
+
 h1 {
   color:red;
   font-weight: 900;
-  font-size: 90px;
+  font-size: 200px;
   text-align:center;
+  font-family: 'Nanum Brush Script', cursive;
 }
