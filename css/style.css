@@ -16,7 +16,12 @@ h1 {
   font-family: 'Nanum Brush Script', cursive;
 }
 
+img {
+  float:inline-end;
+}
+
 .column {
-  width: 300px;
+  width: 100px;
   float: left;
 }
+
