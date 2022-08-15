@@ -20,6 +20,11 @@ h1 {
   font-family: 'Nanum Brush Script', cursive;
 }
 
+h2 {
+  color:red;
+  font-style:italic;
+}
+
 
 .column {
   width: 20%;
