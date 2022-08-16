@@ -5,24 +5,37 @@ body {
 .textfont {
   font-family:'Abel', sans-serif;
   font-size: 30px;
+
 }
 
 img {
-  float:right;
+  float:left;
 }
 
 
 h1 {
   color:red;
   font-weight: 900;
-  font-size: 200px;
+  font-size: 250px;
   text-align:center;
   font-family: 'Nanum Brush Script', cursive;
+}
+
+ul {
+  font-family:;
+  font-size: 30px;
+  font: weight 500px;
 }
 
 h2 {
   color:red;
   font-style:italic;
+  font-family: 'Nanum Brush Script', cursive;
+}
+
+
+ul {
+
 }
 
 
