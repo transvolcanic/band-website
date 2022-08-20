@@ -1,5 +1,5 @@
 body {
-  background-color:bisque
+  background-color:rgb(250, 201, 194);
 }
 
 .textfont {
@@ -9,17 +9,18 @@ body {
 }
 
 img {
-  float:left;
-  border: 5px solid red;
+  border: 3px solid red;
+  margin: 25px;
 }
 
 
 h1 {
   color:red;
-  font-weight: 900;
-  font-size: 250px;
+  font-weight: 100;
+  font-size: 175px;
   text-align:center;
-  font-family: 'Nanum Brush Script', cursive;
+  font-family: 'Nanum Brush Script';
+  line-height: 10px;
 }
 
 ul {
@@ -31,32 +32,37 @@ h2 {
   color:red;
   font-style:italic;
   font-family: 'Nanum Brush Script', cursive;
+  line-height: 10px;
 }
 
 .box1 {
   width: 300px;
   border: solid red;
-  border-width: 5px;
+  border-width: 3px;
   background-color: bisque;
-  margin: 10px;
+  margin: 20px;
+  padding:20px;
   box-sizing:border-box;
+  
 }
 
 .box2 {
   width: 300px;
   border: solid red;
-  border-width: 5px;
+  border-width: 3px;
   background-color: bisque;
-  margin: 10px;
+  margin: 20px;
+  padding:20px;
   box-sizing:border-box;
 }
 
 .box3 {
   width: 300px;
   border: solid red;
-  border-width: 5px;
+  border-width: 3px;
   background-color: bisque;
-  margin: 10px;
+  margin: 20px;
+  padding: 20px;
   box-sizing: border-box;
 
 }
@@ -69,9 +75,9 @@ h2 {
 }
 
 .sidebar {
-  width: 20%;
-  float: right;
-  border: 5px solid red;
+  width: 15%;
+  float:right;
+  border: 3px solid red;
   background-color: darkgoldenrod;
 }
 
