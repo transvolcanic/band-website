@@ -51,6 +51,17 @@ h2 {
   box-sizing:border-box;
 }
 
+.box3 {
+  width: 300px;
+  border: solid red;
+  border-width: 5px;
+  background-color: bisque;
+  margin: 10px;
+  box-sizing: border-box;
+
+}
+
+
 
 .column {
   width: 20%;
