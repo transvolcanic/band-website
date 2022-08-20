@@ -10,8 +10,7 @@ body {
 
 img {
   float:left;
-  border: 10px;
-  border-color:red;
+  border: 5px solid red;
 }
 
 
@@ -37,7 +36,7 @@ h2 {
 .box1 {
   width: 300px;
   border: solid red;
-  border-width: 10px;
+  border-width: 5px;
   background-color: bisque;
   margin: 10px;
   box-sizing:border-box;
@@ -46,7 +45,7 @@ h2 {
 .box2 {
   width: 300px;
   border: solid red;
-  border-width: 10px;
+  border-width: 5px;
   background-color: bisque;
   margin: 10px;
   box-sizing:border-box;
@@ -61,6 +60,7 @@ h2 {
 .sidebar {
   width: 20%;
   float: right;
+  border: 5px solid red;
   background-color: darkgoldenrod;
 }
 
